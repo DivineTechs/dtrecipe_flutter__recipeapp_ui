@@ -4,11 +4,10 @@ DTRecipe - Flutter Recipe Application UI
 
 ## Getting Started
 
-![Splash Screen](https://user-images.githubusercontent.com/96619781/177145588-56cab80f-eb81-4a4e-80e9-16b12f07e140.png)
-![Login](https://user-images.githubusercontent.com/96619781/177145710-d331808f-2424-40c6-ba1d-aced71fb09a8.png)
-![Intro screen (2)](https://user-images.githubusercontent.com/96619781/177145731-e1dfc6b3-f714-4588-869f-dfed42e4cbc9.png)
-![Intro screen (1)](https://user-images.githubusercontent.com/96619781/177145757-57794ab1-29dd-4684-afd1-624ce83fc0e1.png)
-![Intro screen](https://user-images.githubusercontent.com/96619781/177145763-5536281a-17b7-4fd6-b32b-994065e1fec4.png)
-![Home screen](https://user-images.githubusercontent.com/96619781/177145792-be78316a-da22-4de5-85cc-3584592910bb.png)
-![Video](https://user-images.githubusercontent.com/96619781/177145806-d94a1179-087a-4cc0-8884-0458f1d7c9ac.png)
-![Meal plan](https://user-images.githubusercontent.com/96619781/177145814-85cbc4f9-2b0f-4394-ba1d-738eefdaa860.png)
+![16](https://user-images.githubusercontent.com/96619781/177149951-fe39f348-45d4-41e5-83b9-bc32d378f0bd.png)
+![4](https://user-images.githubusercontent.com/96619781/177149977-0dd63267-b510-4a91-b5d0-23c1e75949d5.png)
+![5](https://user-images.githubusercontent.com/96619781/177149983-653a9303-fc72-4818-b5f3-1e5e14764669.png)
+![6](https://user-images.githubusercontent.com/96619781/177149987-75fb9289-6358-41bc-8123-bd50ae6fee97.png)
+![3](https://user-images.githubusercontent.com/96619781/177150001-5bfb05d8-436e-4125-8982-66f0a43a3895.png)
+![7](https://user-images.githubusercontent.com/96619781/177150008-774ac719-6c73-46ea-ac58-5436e05d0851.png)
+![14](https://user-images.githubusercontent.com/96619781/177150014-17fd8d99-be99-44c5-b828-7ce9abdfdbb4.png)
